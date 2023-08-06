@@ -1,0 +1,10 @@
+Classes:
+Tempo de estudo
+Idade
+Comprometimento
+Nome
+
+Métodos:
+Ocupação (altera o tempo de estudo)
+Data de nascimento(altera idade)
+Interesse(altera o comprometimento)
